@@ -3,57 +3,145 @@
     {
       "id": 1,
       "name": "Netflix",
-      "prices": {}
+      "price": {
+        "monthly": {
+          "mobile": 99.00,
+          "basic": 169.00,
+          "standard": 349.00,
+          "premium": 419.00
+        }
+      }
     },
     {
       "id": 2,
       "name": "Disney+ (Hotstar)",
-      "prices": {}
+      "price": {
+        "monthly": {
+          "mobile": 99.00,
+          "premium": 289.00
+        },
+        "yearly": {
+          "mobile": 799.00,
+          "premium": 2290.00
+        }
+      }
     },
     {
       "id": 3,
       "name": "Mubi",
-      "prices": {}
+      "price": {
+        "monthly": {
+          "standard": 279.00
+        },
+        "yearly": {
+          "standard": 2149.00
+        }
+      }
     },
     {
       "id": 4,
       "name": "HBO Go",
-      "prices": {}
+      "price": {
+        "monthly": {
+          "standard": 199.00
+        },
+        "yearly": {
+          "standard": 1071.00
+        },
+        "quarterly": {
+          "standard": 244.30
+        }
+      }
     },
     {
       "id": 5,
       "name": "Apple TV",
-      "prices": {}
+      "price": {
+        "monthly": {
+          "standard": 199.00
+        }
+      }
     },
     {
       "id": 6,
       "name": "Amazon Prime",
-      "prices": {}
+      "price": {
+        "monthly": {
+          "standard": 149.00
+        }
+      }
     },
     {
       "id": 7,
       "name": "Bilibili",
-      "prices": {}
+      "price": {
+        "monthly": {
+          "standard": 69.00
+        },
+        "yearly": {
+          "standard": 499.00
+        },
+        "quarterly": {
+          "standard": 207.00
+        }
+      }
     },
     {
       "id": 8,
       "name": "Viu",
-      "prices": {}
+      "price": {
+        "monthly": {
+          "standard": 149.00
+        },
+        "yearly": {
+          "standard": 1490.00
+        },
+        "quarterly": {
+          "standard": 395.00
+        }
+      }
     },
     {
       "id": 9,
       "name": "iQiyi",
-      "prices": {}
+      "price": {
+        "monthly": {
+          "standard": 119.00
+        },
+        "yearly": {
+          "standard": 1200.00
+        }
+      }
     },
     {
       "id": 10,
       "name": "WeTV",
-      "prices": {}
+      "price": {
+        "monthly": {
+          "standard": 129.00,
+          "premium": 219.00
+        },
+        "yearly": {
+          "standard": 1200.00,
+          "premium": 949.00
+        },
+        "quarterly": {
+          "standard": 339.00,
+          "premium": 429.00
+        }
+      }
     },
     {
       "id": 11,
       "name": "Monomax",
-      "prices": {}
+      "price": {
+        "monthly": {
+          "standard": 250.00
+        },
+        "yearly": {
+          "standard": 1699.00
+        }
+      }
     }
   ]
 }
