@@ -1,0 +1,59 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "Netflix",
+      "prices": {}
+    },
+    {
+      "id": 2,
+      "name": "Disney+ (Hotstar)",
+      "prices": {}
+    },
+    {
+      "id": 3,
+      "name": "Mubi",
+      "prices": {}
+    },
+    {
+      "id": 4,
+      "name": "HBO Go",
+      "prices": {}
+    },
+    {
+      "id": 5,
+      "name": "Apple TV",
+      "prices": {}
+    },
+    {
+      "id": 6,
+      "name": "Amazon Prime",
+      "prices": {}
+    },
+    {
+      "id": 7,
+      "name": "Bilibili",
+      "prices": {}
+    },
+    {
+      "id": 8,
+      "name": "Viu",
+      "prices": {}
+    },
+    {
+      "id": 9,
+      "name": "iQiyi",
+      "prices": {}
+    },
+    {
+      "id": 10,
+      "name": "WeTV",
+      "prices": {}
+    },
+    {
+      "id": 11,
+      "name": "Monomax",
+      "prices": {}
+    }
+  ]
+}
