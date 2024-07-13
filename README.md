@@ -71,3 +71,7 @@ Visualize the price from Streaming Services that available in Thailand.
     - 250 THB
   - Yearly
     - 1699 THB
+
+## Reference
+
+- [prime video อัปเดตราคาใหม่ 2024 ปรับราคาถูกลงกว่าคู่แข่ง (Springnews)](https://www.springnews.co.th/digital-business/845874)
