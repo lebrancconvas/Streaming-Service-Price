@@ -32,9 +32,42 @@ Visualize the price from Streaming Services that available in Thailand.
   - 3-Monthly
     - 244.3 THB
 - Apple TV
+  - Monthly
+    - 199 THB
 - [Amazon Prime](https://www.amazon.com/gp/help/customer/display.html?nodeId=G34EUPKVMYFW8N2U)
+  - Monthly
+    - 149 THB
 - [Bilibili](https://www.bilibili.tv/vip/purchase?order_source=navigation_premium_click)
+  - Monthly
+    - 69 THB
+  - Yearly
+    - 499 THB
+  - 3-Monthly
+    - 207 THB
 - [Viu](https://www.viu.com/ott/th/en/premium)
+  - Monthly
+    - 149 THB
+  - Yearly
+    - 1490 THB
+  - 3-Monthly
+    - 395 THB
 - [iQiyi](https://www.iq.com/vip/order)
+  - Monthly
+    - 119 THB
+  - Yearly
+    - 1200 THB
 - WeTV
+  - Monthly
+    - Standard: 129 THB
+    - VIP: 219 THB
+  - Yearly
+    - Standard: 1200 THB
+    - VIP: 949 THB
+  - 3-Monthly
+    - Standard: 339 THB
+    - VIP: 429 THB
 - [Monomax](https://www.monomax.me/packages)
+  - Monthly
+    - 250 THB
+  - Yearly
+    - 1699 THB
