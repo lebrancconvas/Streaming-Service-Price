@@ -1,2 +1,21 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<script lang="ts">
+
+</script>
+
+<svelte:head>
+  <title>Streaming Service Price</title>
+</svelte:head>
+
+<main>
+  <div id="header">
+    <h1>Streaming Service Price</h1>
+  </div>
+</main>
+
+<style>
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+</style>
