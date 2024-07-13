@@ -29,7 +29,7 @@ Visualize the price from Streaming Services that available in Thailand.
     - 199 THB
   - Yearly
     - 1071 THB
-  - 3-Monthly
+  - Quarterly
     - 244.3 THB
 - Apple TV
   - Monthly
@@ -42,14 +42,14 @@ Visualize the price from Streaming Services that available in Thailand.
     - 69 THB
   - Yearly
     - 499 THB
-  - 3-Monthly
+  - Quarterly
     - 207 THB
 - [Viu](https://www.viu.com/ott/th/en/premium)
   - Monthly
     - 149 THB
   - Yearly
     - 1490 THB
-  - 3-Monthly
+  - Quarterly
     - 395 THB
 - [iQiyi](https://www.iq.com/vip/order)
   - Monthly
@@ -63,7 +63,7 @@ Visualize the price from Streaming Services that available in Thailand.
   - Yearly
     - Standard: 1200 THB
     - VIP: 949 THB
-  - 3-Monthly
+  - Quarterly
     - Standard: 339 THB
     - VIP: 429 THB
 - [Monomax](https://www.monomax.me/packages)
